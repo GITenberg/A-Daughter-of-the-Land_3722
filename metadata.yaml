@@ -1,5 +1,8 @@
 _repo: A-Daughter-of-the-Land_3722
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratton-Porter, Gene
@@ -11,6 +14,8 @@ creator:
 description: A Daughter of the Land is set in Gene Stratton Porter's Limberlost series.
   Kate Bates lives in a man's world. It is her dream to own and run her own farm.
   To fulfill her dreams she must give up everything and start anew. - Back cover.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3722#A-Daughter-of-the-Land
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
